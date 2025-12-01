@@ -1,0 +1,534 @@
+[
+    {
+        "id": "pixel_8a",
+        "brand": "Google",
+        "model": "Pixel 8a",
+        "price_inr": 27999,
+        "release_date": "2024-05-01",
+        "os": "Android",
+        "form_factor": "Compact",
+        "display": {
+            "size_in": 6.1,
+            "type": "OLED",
+            "resolution": "2400x1080"
+        },
+        "camera": {
+            "main_mp": 64,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 4500,
+        "fast_charge_w": 30,
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "weight_g": 172,
+        "dim_mm": "148 x 68 x 8",
+        "notes": "Good computational photography",
+        "spec_source": "mock"
+    },
+    {
+        "id": "iphone_15",
+        "brand": "Apple",
+        "model": "iPhone 15",
+        "price_inr": 74999,
+        "release_date": "2023-09-22",
+        "os": "iOS",
+        "form_factor": "Compact",
+        "display": {
+            "size_in": 6.1,
+            "type": "OLED",
+            "resolution": "2556x1179"
+        },
+        "camera": {
+            "main_mp": 48,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 3349,
+        "fast_charge_w": 20,
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "weight_g": 171,
+        "dim_mm": "147.6 x 71.6 x 7.8",
+        "notes": "Dynamic Island, great color accuracy",
+        "spec_source": "mock"
+    },
+    {
+        "id": "s23_ultra",
+        "brand": "Samsung",
+        "model": "Galaxy S23 Ultra",
+        "price_inr": 99999,
+        "release_date": "2023-02-17",
+        "os": "Android",
+        "form_factor": "Phablet",
+        "display": {
+            "size_in": 6.8,
+            "type": "AMOLED",
+            "resolution": "3088x1440"
+        },
+        "camera": {
+            "main_mp": 200,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 45,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 234,
+        "dim_mm": "163.4 x 78.1 x 8.9",
+        "notes": "S Pen support, excellent zoom",
+        "spec_source": "mock"
+    },
+    {
+        "id": "oneplus_12",
+        "brand": "OnePlus",
+        "model": "OnePlus 12",
+        "price_inr": 64999,
+        "release_date": "2024-01-15",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.82,
+            "type": "AMOLED",
+            "resolution": "3168x1440"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5400,
+        "fast_charge_w": 100,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 220,
+        "dim_mm": "164.3 x 75.8 x 9.2",
+        "notes": "Bright screen, super-fast charging",
+        "spec_source": "mock"
+    },
+    {
+        "id": "xiaomi_14",
+        "brand": "Xiaomi",
+        "model": "Xiaomi 14",
+        "price_inr": 58999,
+        "release_date": "2024-03-10",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.36,
+            "type": "OLED",
+            "resolution": "2670x1200"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 4610,
+        "fast_charge_w": 90,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 188,
+        "dim_mm": "152.8 x 71.5 x 8.2",
+        "notes": "Leica-tuned camera system",
+        "spec_source": "mock"
+    },
+    {
+        "id": "nothing_phone_2a",
+        "brand": "Nothing",
+        "model": "Phone (2a)",
+        "price_inr": 23999,
+        "release_date": "2024-03-05",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.7,
+            "type": "OLED",
+            "resolution": "2412x1084"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": false
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 45,
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "weight_g": 190,
+        "dim_mm": "161.3 x 76.4 x 8.6",
+        "notes": "Glyph interface, clean OS",
+        "spec_source": "mock"
+    },
+    {
+        "id": "iqoo_12",
+        "brand": "iQOO",
+        "model": "iQOO 12",
+        "price_inr": 52999,
+        "release_date": "2023-12-12",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.78,
+            "type": "AMOLED",
+            "resolution": "2800x1260"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 120,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 210,
+        "dim_mm": "163.2 x 75.9 x 8.1",
+        "notes": "Gaming-oriented flagship with top-tier cooling",
+        "spec_source": "mock"
+    },
+    {
+        "id": "realme_gt5",
+        "brand": "Realme",
+        "model": "GT 5",
+        "price_inr": 37999,
+        "release_date": "2023-09-10",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.74,
+            "type": "AMOLED",
+            "resolution": "2772x1240"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": false
+        },
+        "battery_mah": 5240,
+        "fast_charge_w": 150,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 205,
+        "dim_mm": "163.1 x 75.4 x 8.9",
+        "notes": "Blazing fast charging speed",
+        "spec_source": "mock"
+    },
+    {
+        "id": "asus_rog8",
+        "brand": "Asus",
+        "model": "ROG Phone 8",
+        "price_inr": 99999,
+        "release_date": "2024-02-01",
+        "os": "Android",
+        "form_factor": "Gaming",
+        "display": {
+            "size_in": 6.78,
+            "type": "AMOLED",
+            "resolution": "2448x1080"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": false
+        },
+        "battery_mah": 5500,
+        "fast_charge_w": 65,
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "weight_g": 225,
+        "dim_mm": "163.8 x 76.8 x 8.9",
+        "notes": "Gaming beast with active cooling",
+        "spec_source": "mock"
+    },
+    {
+        "id": "oppo_reno11",
+        "brand": "Oppo",
+        "model": "Reno 11",
+        "price_inr": 31999,
+        "release_date": "2024-01-08",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.7,
+            "type": "AMOLED",
+            "resolution": "2412x1080"
+        },
+        "camera": {
+            "main_mp": 64,
+            "ultra_wide": true,
+            "oIS": false,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 67,
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "weight_g": 184,
+        "dim_mm": "162.4 x 74.3 x 7.7",
+        "notes": "Slim and stylish midranger",
+        "spec_source": "mock"
+    },
+    {
+        "id": "motorola_edge50",
+        "brand": "Motorola",
+        "model": "Edge 50 Pro",
+        "price_inr": 35999,
+        "release_date": "2024-04-05",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.7,
+            "type": "pOLED",
+            "resolution": "2664x1220"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 4600,
+        "fast_charge_w": 125,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 186,
+        "dim_mm": "161.2 x 72.5 x 8.2",
+        "notes": "Curved display, sleek design",
+        "spec_source": "mock"
+    },
+    {
+        "id": "vivo_x100",
+        "brand": "Vivo",
+        "model": "X100",
+        "price_inr": 62999,
+        "release_date": "2024-02-10",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.78,
+            "type": "AMOLED",
+            "resolution": "2800x1260"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 120,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 206,
+        "dim_mm": "164.1 x 75.5 x 8.5",
+        "notes": "Zeiss optics and flagship performance",
+        "spec_source": "mock"
+    },
+    {
+        "id": "poco_f6",
+        "brand": "POCO",
+        "model": "F6",
+        "price_inr": 29999,
+        "release_date": "2024-05-20",
+        "os": "Android",
+        "form_factor": "Performance",
+        "display": {
+            "size_in": 6.67,
+            "type": "AMOLED",
+            "resolution": "2712x1220"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": false
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 90,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 199,
+        "dim_mm": "162.9 x 75.4 x 8.1",
+        "notes": "Best value-for-money performer",
+        "spec_source": "mock"
+    },
+    {
+        "id": "sony_xperia5v",
+        "brand": "Sony",
+        "model": "Xperia 5 V",
+        "price_inr": 89999,
+        "release_date": "2023-10-05",
+        "os": "Android",
+        "form_factor": "Compact",
+        "display": {
+            "size_in": 6.1,
+            "type": "OLED",
+            "resolution": "2520x1080"
+        },
+        "camera": {
+            "main_mp": 52,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 30,
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "weight_g": 183,
+        "dim_mm": "154 x 68 x 8.6",
+        "notes": "Professional-grade camera tuning",
+        "spec_source": "mock"
+    },
+    {
+        "id": "honor_magic6",
+        "brand": "Honor",
+        "model": "Magic 6",
+        "price_inr": 58999,
+        "release_date": "2024-02-20",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.8,
+            "type": "OLED",
+            "resolution": "2800x1260"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": true,
+            "eIS": true
+        },
+        "battery_mah": 5450,
+        "fast_charge_w": 80,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 210,
+        "dim_mm": "162.9 x 75.5 x 8.2",
+        "notes": "Balanced all-rounder with strong AI features",
+        "spec_source": "mock"
+    },
+    {
+        "id": "lava_agni2",
+        "brand": "Lava",
+        "model": "Agni 2",
+        "price_inr": 18999,
+        "release_date": "2023-05-16",
+        "os": "Android",
+        "form_factor": "Budget",
+        "display": {
+            "size_in": 6.78,
+            "type": "AMOLED",
+            "resolution": "2400x1080"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": false,
+            "eIS": true
+        },
+        "battery_mah": 4700,
+        "fast_charge_w": 66,
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "weight_g": 210,
+        "dim_mm": "164.2 x 74.7 x 8.8",
+        "notes": "Strong Indian budget pick",
+        "spec_source": "mock"
+    },
+    {
+        "id": "tecno_cam30",
+        "brand": "Tecno",
+        "model": "Camon 30 Pro",
+        "price_inr": 22999,
+        "release_date": "2024-04-12",
+        "os": "Android",
+        "form_factor": "Budget",
+        "display": {
+            "size_in": 6.78,
+            "type": "AMOLED",
+            "resolution": "2400x1080"
+        },
+        "camera": {
+            "main_mp": 108,
+            "ultra_wide": true,
+            "oIS": false,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 70,
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "weight_g": 195,
+        "dim_mm": "164.3 x 75.9 x 8.4",
+        "notes": "Big sensor, decent budget photography",
+        "spec_source": "mock"
+    },
+    {
+        "id": "infinix_gt20",
+        "brand": "Infinix",
+        "model": "GT 20 Pro",
+        "price_inr": 24999,
+        "release_date": "2024-06-10",
+        "os": "Android",
+        "form_factor": "Gaming",
+        "display": {
+            "size_in": 6.67,
+            "type": "AMOLED",
+            "resolution": "2436x1080"
+        },
+        "camera": {
+            "main_mp": 108,
+            "ultra_wide": true,
+            "oIS": false,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 45,
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "weight_g": 198,
+        "dim_mm": "164.1 x 75.8 x 8.2",
+        "notes": "RGB lights, strong mid-tier gaming",
+        "spec_source": "mock"
+    },
+    {
+        "id": "realme_12plus",
+        "brand": "Realme",
+        "model": "12+ 5G",
+        "price_inr": 20999,
+        "release_date": "2024-03-12",
+        "os": "Android",
+        "form_factor": "Standard",
+        "display": {
+            "size_in": 6.7,
+            "type": "AMOLED",
+            "resolution": "2400x1080"
+        },
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide": true,
+            "oIS": false,
+            "eIS": true
+        },
+        "battery_mah": 5000,
+        "fast_charge_w": 67,
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "weight_g": 194,
+        "dim_mm": "164.4 x 75.7 x 8.5",
+        "notes": "Affordable with solid performance",
+        "spec_source": "mock"
+    }
+]
