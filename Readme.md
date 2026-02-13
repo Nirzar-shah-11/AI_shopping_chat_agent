@@ -62,8 +62,3 @@ npm start
 docker build -t ai_shopping_agent .
 docker run -p 5000:5000 ai_shopping_agent
 ```
-
----
-
-## 📄 License
-MIT License
