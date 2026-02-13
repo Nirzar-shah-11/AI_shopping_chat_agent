@@ -1,28 +1,69 @@
-# AI Shopping Chat Agent 
 
-**AI Shopping Chat Agent** is a conversational AI application that lets users interact with a smart agent to search, recommend, and assist with shopping items using natural language. It integrates backend AI logic with an interactive frontend UI. 
+# 🛍️ AI Shopping Chat Agent
 
----
-
-## Project Description
-
-This project is a full-stack AI chat agent tailored for shopping assistance. It allows users to ask questions like:
-
-> “Show me the best deals on wireless headphones”  
-> “Find red dresses under ₹2000”  
-> “Compare features of iPhone and Samsung Galaxy”
-
-and get relevant intelligent responses with product suggestions.
-
-The application combines AI language models with product datasets and web UI/UX to deliver a helpful shopping experience.
+An **AI‑powered conversational shopping assistant** that allows users to search, compare, and get product recommendations using natural language.
 
 ---
 
-## Features
+## 🚀 Features
+- Conversational product search
+- AI-based recommendations
+- Backend + Frontend architecture
+- Dataset-driven responses
+- Docker support
 
-Natural language based shopping queries  
-Product suggestions and recommendations  
-Chat-style conversational interface  
-Modular backend + frontend architecture  
-Optional Docker support for easy deployment
+---
 
+## 📁 Project Structure
+```
+AI_shopping_chat_agent/
+├── backend/
+├── frontend/
+├── dataset/
+├── dockerfile
+├── run_app.sh
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Setup
+
+### Clone Repo
+```bash
+git clone https://github.com/Nirzar-shah-11/AI_shopping_chat_agent.git
+cd AI_shopping_chat_agent
+```
+
+### Backend
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
+---
+
+## 🧠 Example Queries
+- "Compare iPhone vs Samsung"
+
+---
+
+## 🐳 Docker
+```bash
+docker build -t ai_shopping_agent .
+docker run -p 5000:5000 ai_shopping_agent
+```
+
+---
+
+## 📄 License
+MIT License
